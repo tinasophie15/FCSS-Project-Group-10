@@ -1,12 +1,12 @@
 # FCSS-Project-Group-10
 Repository for group 10
 # Members
-| Role     | Name                  | 
-| :---     |    :----:             |
-| **A**    |     Nejla Hidic       |
-| **B**    |     Jiamin Shen       |
-| **C**    |     Binbin Yang       |
-| **D**    | Christina Sophie Knes |
+| Role                      | Name                  | 
+| :---                      |    :----:             |
+| **Sentiment Analysis**    |     Nejla Hidic       |
+| **Keyword Analysis**      |     Jiamin Shen       |
+| **Keyword Analysis**      |     Binbin Yang       |
+| **Sentiment Analysis**    |  Christina Sophie Knes |
 
 # Project
 
